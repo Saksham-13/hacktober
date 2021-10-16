@@ -17,4 +17,5 @@
 
 # Why is a README File necessary?
 #  Well, as software engineers, we all must have come across the term GitHub somewhere. It is where we upload our code so that it is safe even if our system crashes. It is also a platform where you can get a lot of open-source codes shared by awesome developers for free. One thing which we see all the time but do not give much importance to is the Readme file. First of all, let’s understand what a readme file is.
-
+# What is a README File?
+# The Readme file is often the first file which the users read. It is a text file that contains the information for the user about the software, project, code, game, or it might contain instructions, help, or details about the patches or updates.
