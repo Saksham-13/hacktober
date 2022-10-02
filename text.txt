@@ -1,0 +1,11 @@
+ if (node == NULL)
+        return;
+ 
+    /* first recur on left child */
+    printInorder(node->left);
+ 
+    /* then print the data of node */
+    printf("%d ", node->data);
+ 
+    /* now recur on right child */
+    printInorder(node->right);
